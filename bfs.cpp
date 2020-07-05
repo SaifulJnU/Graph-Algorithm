@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//
 /**#define white 1
 #define gray 2
 #define black 3 */
