@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-vector<int>arr[1000000]
+vector<int>arr[1000000];
 int main()
 {
     int v,e;
